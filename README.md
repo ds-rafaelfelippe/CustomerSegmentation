@@ -4,6 +4,8 @@ Este é um projeto de clusterização.
 
 O conjunto de dados utilizado está disponível [neste link](https://www.kaggle.com/rafaelgfelippe/food-delivery).
 
+Para visualizar o script com o código completo acesse [esse link](https://ds-rafaelfelippe.github.io/projetos/Projeto_CustomerSegmentation.html).
+
 [![forthebadge made-with-R](figures/R.png)](https://www.r-project.org/)
 
 # Entendimento do Negócio
